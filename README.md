@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Satya Sai Vamshi Krishna Arza
 
 I'm a data engineer based in Chicago, specializing in data analytics, machine learning, and big data technologies. I have a strong passion for transforming complex datasets into actionable insights and solving real-world problems through data-driven approaches.<br/>
- **Checkout my [portfolio](https://vamshi-arza.github.io/) 💼**
+- **Checkout my [portfolio](https://vamshi-arza.github.io/) 💼**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vamshi-arza&icon=5&color=6)](https://visitcount.itsvg.in)
