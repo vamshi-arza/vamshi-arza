@@ -52,7 +52,7 @@ I'm a data engineer based in Chicago, specializing in data analytics, machine le
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/vamshi_arza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-arza-780b90b8/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzavamshikrishna@gmail.com)
 
 ## 🎯 Personal Interests
-When I'm not diving into data, I love experimenting in the kitchen, exploring new manga series, and binge-watching my favorite shows.
+When I'm not diving into data, I love experimenting in the kitchen, exploring new anime series, and binge-watching my favorite shows.
 
 ---
 
