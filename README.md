@@ -11,7 +11,7 @@ I'm a data analyst based in Chicago, specializing in data analytics, machine lea
 ## 🧑‍💼 Professional Timeline
 - **Data Analyst** at **Infopro Ltd** (March 2024 - Present)
   
-- **Associate Software Engineer** at **Aviro Global Solutions Ltd** (June 2019 – July 2022)
+- **Associate Software Engineer** at **Aviro Global Solutions Ltd** (August 2019 – July 2022)
 
 - **Business Development Intern** at **Flipspaces** (December 2020 – May 2021)
 
