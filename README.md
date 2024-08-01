@@ -47,6 +47,15 @@ I'm a data analyst based in Chicago, specializing in data analytics, machine lea
 - **[Tableau Projects](https://public.tableau.com/app/profile/satya.sai.vamshi.krishna.arza/vizzes)**
   - Created interactive and insightful visualizations using Tableau Public. Visualizations included trend analysis, distribution plots, and comparative charts, providing valuable data insights.
   - Tools Used: MySQL, Tableau
+ 
+## 🏆 Certifications
+- [Google Data Analytics Professional Certificate](https://github.com/vamshi-arza/personal/blob/main/certifications/Google%20Data%20Analytics%20PRO%20Cert.pdf)
+- [Learning Excel: Data Analysis](https://github.com/vamshi-arza/personal/blob/main/certifications/CertificateOfCompletion_Learning%20Excel%20Data%20Analysis.pdf)
+- [Excel Statistics Essential Training](https://github.com/vamshi-arza/personal/blob/main/certifications/CertificateOfCompletion_Excel%20Statistics%20Essential%20Training%201.pdf)
+- [Non-Technical Skills of Effective Data Scientist](https://github.com/vamshi-arza/personal/blob/main/certifications/CertificateOfCompletion_The%20NonTechnical%20Skills%20of%20Effective%20Data%20Scientists%20(2).pdf)
+- [Programming for Everybody With Python](https://github.com/vamshi-arza/personal/blob/main/certifications/Coursera%20python%20begin.pdf)
+- [Python Data Structures](https://github.com/vamshi-arza/personal/blob/main/certifications/Coursera%20python%20data%20structures.pdf)
+- [Oracle Certified Associate Java SE8 Programmer](https://github.com/vamshi-arza/personal/blob/main/certifications/eCertificate%20(2).pdf)
 
 ## 📫 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vamshi_arza/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-arza-780b90b8/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzavamshikrishna@gmail.com)
