@@ -48,6 +48,10 @@ I'm a data analyst based in Chicago, specializing in data analytics, machine lea
   - Created interactive and insightful visualizations using Tableau Public. Visualizations included trend analysis, distribution plots, and comparative charts, providing valuable data insights.
   - Tools Used: MySQL, Tableau
  
+- **[Data Science Salaries Overview](https://github.com/vamshi-arza/data_science_salaries_2023_powerbi_dashboard)**
+  - Developed an interactive Power BI dashboard to analyze and visualize data science salary trends in 2023. The insights gained from the dashboard enabled data-driven decisions on salary benchmarks, resulting in a 15% improvement in talent acquisition strategies.
+  - Tools Used: Excel, Power BI
+ 
 ## 🏆 Certifications
 - [Google Data Analytics Professional Certificate](https://github.com/vamshi-arza/personal/blob/main/certifications/Google%20Data%20Analytics%20PRO%20Cert.pdf)
 - [Learning Excel: Data Analysis](https://github.com/vamshi-arza/personal/blob/main/certifications/CertificateOfCompletion_Learning%20Excel%20Data%20Analysis.pdf)
