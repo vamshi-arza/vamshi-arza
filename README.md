@@ -2,22 +2,14 @@
 
 I'm a data analyst based in Chicago, specializing in data analytics, machine learning, and big data technologies. I have a strong passion for transforming complex datasets into actionable insights and solving real-world problems through data-driven approaches.<br/>
 
-- Checkout my [portfolio](https://vamshi-arza.github.io/)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vamshi-arza&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🧑‍💼 Professional Timeline
-- **Data Analyst** at **Infopro Ltd** (March 2024 - Present)
-  
-- **Data Analyst** at **C R Infotech Pvt Ltd** (August 2019 – June 2022)
 
-- **Business Development Intern** at **Flipspaces** (December 2020 – May 2021)
-
-## 📚 Education
-- **M.S. in Data Analytics** from **University of Illinois Springfield** (Aug 2022 - Dec 2023)
 
 ## 🛠️ Technical Expertise
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
